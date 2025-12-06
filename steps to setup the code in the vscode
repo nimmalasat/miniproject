@@ -1,0 +1,15 @@
+step 1 - download complete files which and all their in this repository
+step 2 - in visual studios create an folder an save the code along with the dataset and modelll.js
+step 3 - to run you can manually or you can run in local host.
+step 4 - to creat an localhost there are needed to be done 
+        this is my file locations it can vary accourding to your saved file locations 
+        1]  cd "e:\mini project"
+            python -m http.server 8000
+
+            above code need to be run in the same powershell terminal 
+            note:- "e:\mini project" this is my file location your file location may vary but the seconf line is same
+
+         2] localhost is created and the website url will be 
+              http://localhost:8000/mini.html
+step 5 - after opening the website temporary local host you need to press f12 key and check the console where all the images needs to be loaded if not you need to try again
+step 6 - if its loaded then you can ckeck the website and use it.
